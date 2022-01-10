@@ -6,11 +6,14 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 
 ## January 2022
 
-### JAN.9
+### 9th
 
 > Gift Wrapping Algorithm
 
-<img src="./js/01-2022/img/2022-01-09.1.png" width="200"/> 
-<img src="./js/01-2022/img/2022-01-09.2.png" width="200"/>
-<img src="./js/01-2022/img/2022-01-09.3.png" width="200"/>
-<img src="./js/01-2022/img/2022-01-09.4.png" width="200"/>
+<img src="./js/01-2022/img/2022-01-09.1.png" width="200"/><img src="./js/01-2022/img/2022-01-09.2.png" width="200"/><img src="./js/01-2022/img/2022-01-09.3.png" width="200"/><img src="./js/01-2022/img/2022-01-09.4.png" width="200"/>
+
+### 10th
+
+> Random 2D Vector circular map
+
+<img src="./js/01-2022/img/2022-01-10.1.png" width="200"/><img src="./js/01-2022/img/2022-01-10.2.png" width="200"/><img src="./js/01-2022/img/2022-01-10.3.png" width="200"/><img src="./js/01-2022/img/2022-01-10.4.png" width="200"/>
