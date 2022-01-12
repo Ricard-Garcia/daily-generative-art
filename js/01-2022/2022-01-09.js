@@ -1,3 +1,5 @@
+// Gift Wrapping Algorithm (2022.01.09)
+
 // Variables
 const points = [];
 const hull = [];
@@ -97,5 +99,11 @@ function draw() {
       nextVertex = leftMost;
       // noLoop();
     }
+  }
+}
+
+function keyPressed() {
+  if (key == "s") {
+    save("mySketch.png");
   }
 }

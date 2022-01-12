@@ -1,3 +1,5 @@
+// Random 2D Vector circular map (2022.1.10)
+
 let minRandom = 100;
 let maxRandom = 180;
 let colors = [
@@ -28,4 +30,10 @@ function draw() {
   //Draw points
   strokeWeight(4);
   point(v.x, v.y);
+}
+
+function keyPressed() {
+  if (key == "s") {
+    save("mySketch.png");
+  }
 }
