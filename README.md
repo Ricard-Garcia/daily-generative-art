@@ -29,3 +29,15 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 > Worley Noise
 
 <img src="./img/2022-01/2022-01-12.1.png" width="200"/><img src="./img/2022-01/2022-01-12.2.png" width="200"/><img src="./img/2022-01/2022-01-12.3.png" width="200"/><img src="./img/2022-01/2022-01-12.4.png" width="200"/>
+
+### 13th
+
+> Reaction difussion
+
+<img src="./img/2022-01/2022-01-13.1.png" width="200"/><img src="./img/2022-01/2022-01-13.2.png" width="200"/><img src="./img/2022-01/2022-01-13.3.png" width="200"/><img src="./img/2022-01/2022-01-13.4.png" width="200"/>
+
+### 14th
+
+> Random walker
+
+<img src="./img/2022-01/2022-01-14.1.png" width="200"/><img src="./img/2022-01/2022-01-14.2.png" width="200"/><img src="./img/2022-01/2022-01-14.3.png" width="200"/><img src="./img/2022-01/2022-01-14.4.png" width="200"/>
