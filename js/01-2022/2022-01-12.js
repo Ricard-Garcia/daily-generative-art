@@ -2,7 +2,8 @@
 
 // Variables
 let points = [];
-let numPoints = 20;
+let numPoints = 40;
+let margins = 50;
 
 function setup() {
   createCanvas(400, 400);
@@ -13,10 +14,11 @@ function setup() {
 }
 
 function draw() {
+  background(255);
   loadPixels();
 
-  for (let x = 0; x < width; x++) {
-    for (let y = 0; y < height; y++) {
+  for (let x = margins; x < width - margins; x++) {
+    for (let y = margins; y < height - margins; y++) {
       let distances = [];
       for (let i = 0; i < points.length; i++) {
         let v = points[i];
