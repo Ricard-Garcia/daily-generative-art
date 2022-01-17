@@ -47,3 +47,9 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 > Concentric circles
 
 <img src="./img/2022-01/2022-01-15.1.png" width="200"/><img src="./img/2022-01/2022-01-15.2.png" width="200"/><img src="./img/2022-01/2022-01-15.3.png" width="200"/><img src="./img/2022-01/2022-01-15.4.png" width="200"/>
+
+### 16th
+
+> Lissajou schema
+
+<img src="./img/2022-01/2022-01-16.1.png" width="200"/><img src="./img/2022-01/2022-01-16.2.png" width="200"/><img src="./img/2022-01/2022-01-16.3.png" width="200"/><img src="./img/2022-01/2022-01-16.4.png" width="200"/>
