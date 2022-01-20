@@ -53,3 +53,9 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 > Lissajou schema
 
 <img src="./img/2022-01/2022-01-16.1.png" width="200"/><img src="./img/2022-01/2022-01-16.2.png" width="200"/><img src="./img/2022-01/2022-01-16.3.png" width="200"/><img src="./img/2022-01/2022-01-16.4.png" width="200"/>
+
+### 17th
+
+> Sine wave
+
+<img src="./img/2022-01/2022-01-17.1.png" width="200"/><img src="./img/2022-01/2022-01-17.2.png" width="200"/><img src="./img/2022-01/2022-01-17.3.png" width="200"/><img src="./img/2022-01/2022-01-17.4.png" width="200"/>
