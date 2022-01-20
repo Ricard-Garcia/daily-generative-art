@@ -101,9 +101,3 @@ function draw() {
     }
   }
 }
-
-function keyPressed() {
-  if (key == "s") {
-    save("mySketch.png");
-  }
-}

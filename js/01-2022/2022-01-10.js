@@ -31,9 +31,3 @@ function draw() {
   strokeWeight(4);
   point(v.x, v.y);
 }
-
-function keyPressed() {
-  if (key == "s") {
-    save("mySketch.png");
-  }
-}
