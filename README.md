@@ -59,3 +59,9 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 > Sine wave
 
 <img src="./img/2022-01/2022-01-17.1.png" width="200"/><img src="./img/2022-01/2022-01-17.2.png" width="200"/><img src="./img/2022-01/2022-01-17.3.png" width="200"/><img src="./img/2022-01/2022-01-17.4.png" width="200"/>
+
+### 18th
+
+> Binary gradient
+
+<img src="./img/2022-01/2022-01-18.1.png" width="200"/><img src="./img/2022-01/2022-01-18.2.png" width="200"/><img src="./img/2022-01/2022-01-18.3.png" width="200"/><img src="./img/2022-01/2022-01-18.4.png" width="200"/>
