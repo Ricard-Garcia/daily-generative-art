@@ -71,3 +71,9 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 > 1D Perlin Noise
 
 <img src="./img/2022-01/2022-01-19.1.png" width="200"/><img src="./img/2022-01/2022-01-19.2.png" width="200"/><img src="./img/2022-01/2022-01-19.3.png" width="200"/><img src="./img/2022-01/2022-01-19.4.png" width="200"/>
+
+### 12th
+
+> 1D Perlin Noise (gradient)
+
+<img src="./img/2022-01/2022-01-20.1.png" width="200"/><img src="./img/2022-01/2022-01-20.2.png" width="200"/><img src="./img/2022-01/2022-01-20.3.png" width="200"/><img src="./img/2022-01/2022-01-20.4.png" width="200"/>
