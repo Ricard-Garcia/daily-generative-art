@@ -9,9 +9,11 @@ const lightColors = [
 ];
 
 const darkColors = [
+  "Black",
   "CadetBlue",
   "CornflowerBlue",
   "Crimson",
+  "DarkSlateGray",
   "Gold",
   "MediumAquamarine",
   "Salmon",

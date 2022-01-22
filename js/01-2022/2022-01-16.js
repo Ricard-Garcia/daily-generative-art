@@ -1,4 +1,4 @@
-// Lissajous Curve Table (2022.01.16)
+// Lissajou Curve Table (2022.01.16)
 
 function make2DArray(rows, cols) {
   var arr = new Array(rows); //like arr[]; but with number of columns hardcoded
