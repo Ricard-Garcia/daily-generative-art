@@ -1,4 +1,4 @@
-const lightColors = [
+let lightColors = [
   "AliceBlue",
   "Cornsilk",
   "DarkTurquoise",
@@ -8,7 +8,7 @@ const lightColors = [
   "PaleTurquoise",
 ];
 
-const darkColors = [
+let darkColors = [
   "Black",
   "CadetBlue",
   "CornflowerBlue",
@@ -19,9 +19,9 @@ const darkColors = [
   "Salmon",
 ];
 
-const greyColors = ["30", "40", "255"];
+let greyColors = ["30", "40", "255"];
 
-const colors = lightColors.concat(darkColors);
+let colors = lightColors.concat(darkColors);
 colors.sort(() => (Math.random() > 0.5 ? 1 : -1));
 
 // Random colors

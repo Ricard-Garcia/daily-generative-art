@@ -89,3 +89,9 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 > Rothko generator
 
 <img src="./img/2022-01/2022-01-22.1.png" width="200"/><img src="./img/2022-01/2022-01-22.2.png" width="200"/><img src="./img/2022-01/2022-01-22.3.png" width="200"/><img src="./img/2022-01/2022-01-22.4.png" width="200"/>
+
+### 23th
+
+> Pixel grid
+
+<img src="./img/2022-01/2022-01-23.1.png" width="200"/><img src="./img/2022-01/2022-01-23.2.png" width="200"/><img src="./img/2022-01/2022-01-23.3.png" width="200"/><img src="./img/2022-01/2022-01-23.4.png" width="200"/>

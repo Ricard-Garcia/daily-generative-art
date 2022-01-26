@@ -1,13 +1,13 @@
 // Rothko generator (2022.01.22)
 let numRects = 20;
 
-margin = 40; // 40
-let rectMargin = 60; // 60
+margin = 50; // 40
 let safeSpace = 10;
+let rectMargin; // 60
 let divisionH;
 
 let rothkoPalette = [
-  ["rgba(228, 117, 3, 1)", "rgba(247, 176, 4, .1)", "rgba(222, 54, 6, .1)"], // Background, top, bottom
+  ["rgba(228, 117, 3, 1)", "rgba(247, 176, 4, .1)", "rgba(222, 54, 6, .1)"], //Background, top, bottom
   ["rgba(182, 98, 75, 1)", "rgba(34, 102, 154, .1)", "rgba(195, 147, 90, .1)"],
   ["rgba(228, 117, 3, 1)", "rgba(243, 43, 130, .1)", "rgba(222, 54, 6, .1)"],
   ["rgba(6, 44, 126, 1)", "rgba(240, 240, 210, .1)", "rgba(40, 30, 30, .1)"],
@@ -33,9 +33,7 @@ let cols;
 let rows;
 
 function setup() {
-  createCanvas(400, 400);
-
-  divisionH = random(margin + safeSpace, height - margin - safeSpace);
+  createCanvas(400, 700);
 
   palette = random(rothkoPalette);
 
@@ -52,6 +50,10 @@ function draw() {
   let xOff = 0;
   let topRect = new NoiseRect();
   let bottomRect = new NoiseRect();
+
+  rectMargin = map(mouseX, 0, windowWidth / 2, margin, width);
+  divisionH = mouseY - margin;
+  console.log(rectMargin);
 
   // Top rectangle
   for (let r = 0; r < numRects; r++) {
@@ -75,7 +77,7 @@ function draw() {
     xOff += 300;
   }
 
-  noLoop();
+  //noLoop();
 }
 
 /* -------------------------------------------------------------------------- */
