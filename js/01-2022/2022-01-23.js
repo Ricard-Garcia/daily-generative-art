@@ -14,33 +14,40 @@ let cX;
 let cY;
 let cW;
 
-let density;
-let cols;
+margin = 50;
+
+let den;
 let rows;
 
 function setup() {
   createCanvas(400, 400);
 
-  density = floor(random(4, 50));
+  let boardW = width - margin * 2;
+  let boardH = height - margin * 2;
 
-  cW = width / density;
-  cols = density;
-  rows = 60;
+  den = random(7, 7);
+
+  cW = boardW / den;
+
+  cols = den;
+  rows = boardH / cW;
 }
 
 function draw() {
-  background(240);
+  background(245);
 
   for (let x = 0; x < cols; x++) {
     for (let y = 0; y < rows; y++) {
-      cX = cW * x;
-      cY = cW * y;
+      cX = cW * x + margin;
+      cY = cW * y + margin;
 
-      cCol = random(colors);
+      if (margin <= cY && cY < height - cW * 2) {
+        cCol = random(colors);
+        fill(cCol);
 
-      fill(cCol);
-      noStroke();
-      rect(cX, cY, cW, cW);
+        noStroke();
+        rect(cX, cY, cW, cW);
+      }
     }
   }
   noLoop();
