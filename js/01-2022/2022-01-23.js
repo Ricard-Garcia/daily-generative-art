@@ -36,6 +36,10 @@ function setup() {
 function draw() {
   background(245);
 
+  stroke(255, 0, 0);
+  line(margin, 0, margin, height);
+  line(width - margin, 0, width - margin, height);
+
   for (let x = 0; x < cols; x++) {
     for (let y = 0; y < rows; y++) {
       cX = cW * x + margin;
