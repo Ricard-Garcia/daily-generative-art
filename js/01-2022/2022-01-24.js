@@ -10,14 +10,14 @@ let pixels = [];
 
 margin = 50;
 
-let den = 10;
+let den = 30;
 let rows;
 
-let brushRadius = 50;
+let brushRadius = 500;
 let isDragged = false;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(1080, 1920);
 
   let boardW = width - margin * 2;
   let boardH = height - margin * 2;

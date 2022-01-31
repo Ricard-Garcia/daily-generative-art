@@ -101,3 +101,9 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 > Pixel grid (drawing)
 
 <img src="./img/2022-01/2022-01-24.1.png" width="200"/><img src="./img/2022-01/2022-01-24.3.png" width="200"/><img src="./img/2022-01/2022-01-24.2.png" width="200"/><img src="./img/2022-01/2022-01-24.4.png" width="200"/>
+
+### 25th
+
+> Metaballs
+
+<img src="./img/2022-01/2022-01-25.1.png" width="200"/><img src="./img/2022-01/2022-01-25.3.png" width="200"/><img src="./img/2022-01/2022-01-25.2.png" width="200"/><img src="./img/2022-01/2022-01-25.4.png" width="200"/>
