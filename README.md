@@ -119,3 +119,9 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 > Pointillism walker
 
 <img src="./img/2022-01/2022-01-27.1.png" width="200"/><img src="./img/2022-01/2022-01-27.2.png" width="200"/><img src="./img/2022-01/2022-01-27.3.png" width="200"/><img src="./img/2022-01/2022-01-27.4.png" width="200"/>
+
+### 28th
+
+> Random walker portraits
+
+<img src="./img/2022-01/2022-01-28.1.png" width="200"/><img src="./img/2022-01/2022-01-28.2.png" width="200"/><img src="./img/2022-01/2022-01-28.3.png" width="200"/><img src="./img/2022-01/2022-01-28.4.png" width="200"/>

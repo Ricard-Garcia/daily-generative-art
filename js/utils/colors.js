@@ -41,6 +41,8 @@ let yellows = [
 
 let greyColors = ["Black", "DarkGray", "LightGray", "Whitesmoke"];
 
+let backgroundColor = 246;
+
 let colors = lightColors.concat(darkColors);
 colors.sort(() => (Math.random() > 0.5 ? 1 : -1));
 

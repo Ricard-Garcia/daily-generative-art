@@ -13,7 +13,7 @@ margin = 50;
 let den = 30;
 let rows;
 
-let brushRadius = 500;
+let brushRadius = 90;
 let isDragged = false;
 
 function setup() {
@@ -78,15 +78,7 @@ class Pixel {
   resetColor(x, y, color) {
     let b = dist(x, y, this.x, this.y);
 
-    // console.log(b);
     if (b < brushRadius) {
-      // if (
-      //   x >= this.x &&
-      //   x <= this.x + this.width &&
-      //   y >= this.y &&
-      //   y <= this.y + this.height
-      // ) {
-      //   console.log(this.x);
       this.color = color;
     }
   }
