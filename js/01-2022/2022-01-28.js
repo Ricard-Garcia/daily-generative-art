@@ -4,7 +4,7 @@ let img;
 
 let x;
 let y;
-let nWalkers = 50;
+let nWalkers = 3;
 let walkers = [];
 let stepIncrement = 20;
 
@@ -15,8 +15,8 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(storyW, storyH);
-  img.resize(storyW - margin * 2, 0);
+  createCanvas(postW, postH);
+  img.resize(postW - margin * 2, 0);
 
   if (showImage) {
     image(img, margin, margin * 2);

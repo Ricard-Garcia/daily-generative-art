@@ -125,3 +125,9 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 > Random walker portraits
 
 <img src="./img/2022-01/2022-01-28.1.png" width="200"/><img src="./img/2022-01/2022-01-28.2.png" width="200"/><img src="./img/2022-01/2022-01-28.3.png" width="200"/><img src="./img/2022-01/2022-01-28.4.png" width="200"/>
+
+### 28th
+
+> Growing circles
+
+<img src="./img/2022-01/2022-01-29.1.png" width="200"/><img src="./img/2022-01/2022-01-29.2.png" width="200"/><img src="./img/2022-01/2022-01-29.3.png" width="200"/><img src="./img/2022-01/2022-01-29.4.png" width="200"/>
