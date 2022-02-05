@@ -134,6 +134,12 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 
 ### 30th
 
-> Circle packing
+> Circle packing 1
 
 <img src="./img/2022-01/2022-01-30.1.png" width="200"/><img src="./img/2022-01/2022-01-30.2.png" width="200"/><img src="./img/2022-01/2022-01-30.3.png" width="200"/><img src="./img/2022-01/2022-01-30.4.png" width="200"/>
+
+### 31th
+
+> Circle packing 2
+
+<img src="./img/2022-01/2022-01-31.1.png" width="200"/><img src="./img/2022-01/2022-01-31.2.png" width="200"/><img src="./img/2022-01/2022-01-31.3.png" width="200"/><img src="./img/2022-01/2022-01-31.4.png" width="200"/>
