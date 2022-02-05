@@ -126,8 +126,14 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 
 <img src="./img/2022-01/2022-01-28.1.png" width="200"/><img src="./img/2022-01/2022-01-28.2.png" width="200"/><img src="./img/2022-01/2022-01-28.3.png" width="200"/><img src="./img/2022-01/2022-01-28.4.png" width="200"/>
 
-### 28th
+### 29th
 
 > Growing circles
 
 <img src="./img/2022-01/2022-01-29.1.png" width="200"/><img src="./img/2022-01/2022-01-29.2.png" width="200"/><img src="./img/2022-01/2022-01-29.3.png" width="200"/><img src="./img/2022-01/2022-01-29.4.png" width="200"/>
+
+### 30th
+
+> Circle packing
+
+<img src="./img/2022-01/2022-01-30.1.png" width="200"/><img src="./img/2022-01/2022-01-30.2.png" width="200"/><img src="./img/2022-01/2022-01-30.3.png" width="200"/><img src="./img/2022-01/2022-01-30.4.png" width="200"/>
