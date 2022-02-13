@@ -1,4 +1,4 @@
-// Initial collision detection (2022.01.09)
+// City lights (2022.02.01)
 
 let lines = [];
 let numLines = 500;

@@ -146,6 +146,14 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 
 ## February
 
-City lights
+### 1st
+
+> City lights
 
 <img src="./img/2022-02/2022-02-01.1.png" width="200"/><img src="./img/2022-02/2022-02-01.2.png" width="200"/><img src="./img/2022-02/2022-02-01.3.png" width="200"/><img src="./img/2022-02/2022-02-01.4.png" width="200"/>
+
+### 2nd
+
+> Noisy channel
+
+<img src="./img/2022-02/2022-02-02.1.png" width="200"/><img src="./img/2022-02/2022-02-02.2.png" width="200"/><img src="./img/2022-02/2022-02-02.3.png" width="200"/><img src="./img/2022-02/2022-02-02.4.png" width="200"/>

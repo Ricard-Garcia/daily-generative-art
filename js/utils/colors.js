@@ -39,6 +39,9 @@ let yellows = [
   "rgba(255, 255, 30, 1)",
 ];
 
+// 2022.02.02
+let channelColors = ["orangeRed", "blue", "white", "yellow", "LawnGreen"];
+
 let greyColors = ["Black", "DarkGray", "LightGray", "Whitesmoke"];
 
 let backgroundColor = 246;

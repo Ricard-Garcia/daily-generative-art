@@ -1,5 +1,11 @@
 function keyPressed() {
   if (key == "s") {
-    save("2022-01-14.png");
+    let d = new Date();
+    let year = d.getFullYear();
+    let month = d.getMonth() + 1;
+    let day = d.getDate();
+
+    console.log(year, month, day);
+    save(`${year}-${month + 1}-${day}.png`);
   }
 }
