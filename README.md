@@ -4,7 +4,7 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 
 # 2022
 
-## January 2022
+## January
 
 ### 9th
 
@@ -143,3 +143,9 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 > Circle packing 2
 
 <img src="./img/2022-01/2022-01-31.1.png" width="200"/><img src="./img/2022-01/2022-01-31.2.png" width="200"/><img src="./img/2022-01/2022-01-31.3.png" width="200"/><img src="./img/2022-01/2022-01-31.4.png" width="200"/>
+
+## February
+
+City lights
+
+<img src="./img/2022-02/2022-02-31.1.png" width="200"/><img src="./img/2022-02/2022-02-31.2.png" width="200"/><img src="./img/2022-02/2022-02-31.3.png" width="200"/><img src="./img/2022-02/2022-02-31.4.png" width="200"/>

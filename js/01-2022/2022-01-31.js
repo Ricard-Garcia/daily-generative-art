@@ -5,7 +5,7 @@ let numCircles = 3;
 let circles;
 let cM = 0;
 
-let cpf = 80;
+let cpf = 40;
 
 let randC = getRandomColor(colors);
 let spots; // Possible Vector (x, y) spots
@@ -14,7 +14,7 @@ let img;
 
 margin = 0;
 
-let whitePixels = true;
+let whitePixels = false;
 let monochrom = false;
 
 function preload() {
