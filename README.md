@@ -148,4 +148,4 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 
 City lights
 
-<img src="./img/2022-02/2022-02-31.1.png" width="200"/><img src="./img/2022-02/2022-02-31.2.png" width="200"/><img src="./img/2022-02/2022-02-31.3.png" width="200"/><img src="./img/2022-02/2022-02-31.4.png" width="200"/>
+<img src="./img/2022-02/2022-02-01.1.png" width="200"/><img src="./img/2022-02/2022-02-01.2.png" width="200"/><img src="./img/2022-02/2022-02-01.3.png" width="200"/><img src="./img/2022-02/2022-02-01.4.png" width="200"/>
