@@ -6,6 +6,6 @@ function keyPressed() {
     let day = d.getDate();
 
     console.log(year, month, day);
-    save(`${year}-${month + 1}-${day}.png`);
+    save(`${year}-${month}-${day}.png`);
   }
 }

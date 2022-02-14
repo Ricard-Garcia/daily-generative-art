@@ -5,10 +5,12 @@ let xOff = 0;
 let vOff = 0;
 let variation;
 
-let w = 800;
-let h = w;
+margin = 100;
+
+let w = storyW;
+let h = storyH;
 let originY;
-let sW = (h / 100) * 6;
+let sW = (h / 100) * 3;
 
 function setup() {
   createCanvas(w, h);
@@ -24,10 +26,15 @@ function draw() {
   push();
   blendMode(BLEND);
   background(0);
+
+  noFill();
+  strokeWeight(4);
+  stroke(245);
+  rect(margin, margin, width - margin * 2, height - margin * 2);
   pop();
 
   inc = map(mouseX, 0, w, 0.01, 0.0001);
-  variation = map(mouseY, 0, h, -h * 0.25, h * 0.25);
+  variation = map(mouseY, 0, h, -h * 0.5, h * 0.5);
 
   xOff = 0;
   vOff = 0;
@@ -39,7 +46,7 @@ function draw() {
     stroke(color(c));
     strokeWeight(sW);
 
-    for (let x = -sW; x < width + sW; x++) {
+    for (let x = margin; x < width - margin; x++) {
       let y = noise(xOff) * originY + height / 6;
       vertex(x, y + noise(vOff) * variation);
 
