@@ -157,3 +157,9 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 > Noisy channel
 
 <img src="./img/2022-02/2022-02-02.1.png" width="200"/><img src="./img/2022-02/2022-02-02.2.png" width="200"/><img src="./img/2022-02/2022-02-02.3.png" width="200"/><img src="./img/2022-02/2022-02-02.4.png" width="200"/>
+
+### 3rd
+
+> Nebulosa gradients
+
+<img src="./img/2022-02/2022-02-03.1.png" width="200"/><img src="./img/2022-02/2022-02-03.2.png" width="200"/><img src="./img/2022-02/2022-02-03.3.png" width="200"/><img src="./img/2022-02/2022-02-03.4.png" width="200"/>
