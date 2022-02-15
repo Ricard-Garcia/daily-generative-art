@@ -16,6 +16,29 @@ let pixelGridColors = [
   "MediumTurquoise",
 ];
 
+let warmColors = [
+  "Crimson",
+  "DarkOrange",
+  "DarkRed",
+  "FireBrick",
+  "LightCoral",
+  "LightSalmon",
+  "Salmon",
+  "Tomato",
+];
+
+let coldColors = [
+  "AliceBlue",
+  "Aqua",
+  "AquaMarine",
+  "DarkBlue",
+  "DarkCyan",
+  "DarkTurquoise",
+  "LightBlue",
+  "LightSeaGreen",
+  "PowderBlue",
+];
+
 let darkColors = [
   "Black",
   "CadetBlue",
