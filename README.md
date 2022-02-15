@@ -163,3 +163,9 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 > Nebulosa gradients
 
 <img src="./img/2022-02/2022-02-03.1.png" width="200"/><img src="./img/2022-02/2022-02-03.2.png" width="200"/><img src="./img/2022-02/2022-02-03.3.png" width="200"/><img src="./img/2022-02/2022-02-03.4.png" width="200"/>
+
+### 4th
+
+> Border gradients
+
+<img src="./img/2022-02/2022-02-04.1.png" width="200"/><img src="./img/2022-02/2022-02-04.2.png" width="200"/><img src="./img/2022-02/2022-02-04.3.png" width="200"/><img src="./img/2022-02/2022-02-04.4.png" width="200"/>
