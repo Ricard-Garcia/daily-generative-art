@@ -6,13 +6,18 @@ let angleInc;
 let d;
 let tickLength = 20;
 
+let speed = 1;
+
 let secondsInc = 360 / 60 / 60;
+secondsInc *= speed;
 let secondsC;
 
 let minutesInc = 360 / 60 / 60 / 60;
+minutesInc *= speed;
 let minutesC;
 
 let hoursInc = 360 / 60 / 60 / 60 / 60;
+hoursInc *= speed;
 let hoursC;
 
 let bgColor = getRandomColor(colors);
@@ -62,12 +67,13 @@ function setup() {
 
 function draw() {
   background(bgColor);
+  background(10);
 
   translate(width / 2, height / 2);
   angleMode(DEGREES);
 
   stroke(accentColor);
-  strokeWeight(4);
+  strokeWeight(10);
   noFill();
   point(0, 0);
 
@@ -96,16 +102,18 @@ class CircleTick {
     let angleInc = floor(360 / this.n);
 
     for (let i = 0; i < this.n; i++) {
+      let strokeW = map(i, 0, this.n, this.sW * 1.6, 0.1);
       noFill();
       push();
       rotate(this.oA);
       if (i == 0) {
-        strokeWeight(this.sW * 2);
+        // strokeWeight(this.sW / 2);
         stroke(this.accent);
       } else {
-        strokeWeight(this.sW / 2);
+        // strokeWeight(this.sW * 1.6);
         stroke(this.c);
       }
+      strokeWeight(strokeW);
       point(this.d, this.y);
       pop();
 
