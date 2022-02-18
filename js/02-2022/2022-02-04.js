@@ -1,4 +1,4 @@
-// Border gradients (2022.02.03)
+// Border gradients (2022.02.04)
 
 let w;
 let iF = 10;

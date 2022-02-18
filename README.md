@@ -175,3 +175,9 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 > Border gradients (v2)
 
 <img src="./img/2022-02/2022-02-05.1.png" width="200"/><img src="./img/2022-02/2022-02-05.2.png" width="200"/><img src="./img/2022-02/2022-02-05.3.png" width="200"/><img src="./img/2022-02/2022-02-05.4.png" width="200"/>
+
+### 6th
+
+> Timers
+
+<img src="./img/2022-02/2022-02-06.1.png" width="200"/><img src="./img/2022-02/2022-02-06.2.png" width="200"/><img src="./img/2022-02/2022-02-06.3.png" width="200"/><img src="./img/2022-02/2022-02-05.4.png" width="200"/>

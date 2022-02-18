@@ -1,4 +1,6 @@
-// Border gradients (2022.02.03)
+// Border gradients (2022.02.05)
+// import palettes from "nice-color-palettes";
+// console.log(palettes);
 
 let w;
 let iF = 10;
@@ -9,7 +11,7 @@ let cMargin = 80;
 let centralSpace = true;
 
 let gradientColors;
-let isWarm = false;
+let isWarm = true;
 
 function setup() {
   createCanvas(400, 400);
