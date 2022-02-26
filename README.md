@@ -187,3 +187,9 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 > Orbits
 
 <img src="./img/2022-02/2022-02-07.1.png" width="200"/><img src="./img/2022-02/2022-02-07.2.png" width="200"/><img src="./img/2022-02/2022-02-07.3.png" width="200"/><img src="./img/2022-02/2022-02-07.4.png" width="200"/>
+
+### 8th
+
+> Dotted letters
+
+<img src="./img/2022-02/2022-02-08.1.png" width="200"/><img src="./img/2022-02/2022-02-08.2.png" width="200"/><img src="./img/2022-02/2022-02-08.3.png" width="200"/><img src="./img/2022-02/2022-02-08.4.png" width="200"/>
