@@ -193,3 +193,9 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 > Dotted letters
 
 <img src="./img/2022-02/2022-02-08.1.png" width="200"/><img src="./img/2022-02/2022-02-08.2.png" width="200"/><img src="./img/2022-02/2022-02-08.3.png" width="200"/><img src="./img/2022-02/2022-02-08.4.png" width="200"/>
+
+### 9th
+
+> Bouncer
+
+<img src="./img/2022-02/2022-02-09.1.png" width="200"/><img src="./img/2022-02/2022-02-09.2.png" width="200"/><img src="./img/2022-02/2022-02-09.3.png" width="200"/><img src="./img/2022-02/2022-02-09.4.png" width="200"/>
