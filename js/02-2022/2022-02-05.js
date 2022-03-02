@@ -5,8 +5,8 @@
 let w;
 let iF = 10;
 let sW = 1;
-let fUpdates = 40;
-let cMargin = 80;
+let fUpdates = 300;
+let cMargin = 300;
 
 let centralSpace = true;
 
@@ -14,7 +14,7 @@ let gradientColors;
 let isWarm = true;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(storyW, storyH);
 
   gradientColors = {
     top: color(getRandomColor(isWarm ? warmColors : coldColors)),

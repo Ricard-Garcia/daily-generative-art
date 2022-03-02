@@ -1,6 +1,6 @@
 let margin = 50;
 
-let postW = 800;
+let postW = 1080;
 let postH = postW;
 
 let storyW = 1080;
