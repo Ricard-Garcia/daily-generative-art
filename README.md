@@ -211,3 +211,9 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 > Spacing words (based on @ryancarlstudio patterns of peace)
 
 <img src="./img/2022-02/2022-02-11.1.png" width="200"/><img src="./img/2022-02/2022-02-11.2.png" width="200"/><img src="./img/2022-02/2022-02-11.3.png" width="200"/><img src="./img/2022-02/2022-02-11.4.png" width="200"/>
+
+### 12th
+
+> Grid random walk
+
+<img src="./img/2022-02/2022-02-12.1.png" width="200"/><img src="./img/2022-02/2022-02-12.2.png" width="200"/><img src="./img/2022-02/2022-02-12.3.png" width="200"/><img src="./img/2022-02/2022-02-12.4.png" width="200"/>
