@@ -223,3 +223,9 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 > Mouse walks
 
 <img src="./img/2022-02/2022-02-13.1.png" width="200"/><img src="./img/2022-02/2022-02-13.2.png" width="200"/><img src="./img/2022-02/2022-02-13.3.png" width="200"/><img src="./img/2022-02/2022-02-13.4.png" width="200"/>
+
+### 14th
+
+> Lisajous walks
+
+<img src="./img/2022-02/2022-02-14.1.png" width="200"/><img src="./img/2022-02/2022-02-14.2.png" width="200"/><img src="./img/2022-02/2022-02-14.3.png" width="200"/><img src="./img/2022-02/2022-02-14.4.png" width="200"/>
