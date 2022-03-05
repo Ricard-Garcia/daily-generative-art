@@ -214,6 +214,12 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 
 ### 12th
 
-> Grid random walk
+> Grid random walks
 
 <img src="./img/2022-02/2022-02-12.1.png" width="200"/><img src="./img/2022-02/2022-02-12.2.png" width="200"/><img src="./img/2022-02/2022-02-12.3.png" width="200"/><img src="./img/2022-02/2022-02-12.4.png" width="200"/>
+
+### 13th
+
+> Mouse walks
+
+<img src="./img/2022-02/2022-02-13.1.png" width="200"/><img src="./img/2022-02/2022-02-13.2.png" width="200"/><img src="./img/2022-02/2022-02-13.3.png" width="200"/><img src="./img/2022-02/2022-02-13.4.png" width="200"/>

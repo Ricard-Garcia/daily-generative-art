@@ -42,37 +42,35 @@ function setup() {
 }
 
 function draw() {
-  if (overallSteps) {
-    point(x * spacing, y * spacing);
+  point(x * spacing, y * spacing);
 
-    const r = floor(random(4));
+  const r = floor(random(4));
 
-    switch (r) {
-      case 0:
-        if (x * spacing >= width - margin) {
-          break;
-        }
-        x = x + 1;
+  switch (r) {
+    case 0:
+      if (x * spacing >= width - margin) {
         break;
-      case 1:
-        if (x * spacing <= margin) {
-          break;
-        }
-        x = x - 1;
+      }
+      x = x + 1;
+      break;
+    case 1:
+      if (x * spacing <= margin) {
         break;
-      case 2:
-        if (y * spacing >= height - margin) {
-          break;
-        }
-        y = y + 1;
+      }
+      x = x - 1;
+      break;
+    case 2:
+      if (y * spacing >= height - margin) {
         break;
-      case 3:
-        if (y * spacing <= margin) {
-          break;
-        }
-        y -= 1;
+      }
+      y = y + 1;
+      break;
+    case 3:
+      if (y * spacing <= margin) {
         break;
-    }
+      }
+      y -= 1;
+      break;
   }
 }
 
