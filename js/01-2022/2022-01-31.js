@@ -14,11 +14,11 @@ let img;
 
 margin = 0;
 
-let whitePixels = false;
-let monochrom = false;
+let whitePixels = true;
+let monochrom = true;
 
 function preload() {
-  img = loadImage("../../assets/2022-01-30-asset-extra.jpg");
+  img = loadImage("../../assets/2022-01-30-asset-extra-2.jpg");
 }
 
 function setup() {

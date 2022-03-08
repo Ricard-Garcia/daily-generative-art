@@ -229,3 +229,9 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 > Lisajous walks
 
 <img src="./img/2022-02/2022-02-14.1.png" width="200"/><img src="./img/2022-02/2022-02-14.2.png" width="200"/><img src="./img/2022-02/2022-02-14.3.png" width="200"/><img src="./img/2022-02/2022-02-14.4.png" width="200"/>
+
+### 15th
+
+> Knitted letters
+
+<img src="./img/2022-02/2022-02-15.1.png" width="200"/><img src="./img/2022-02/2022-02-15.2.png" width="200"/><img src="./img/2022-02/2022-02-15.3.png" width="200"/><img src="./img/2022-02/2022-02-15.4.png" width="200"/>
