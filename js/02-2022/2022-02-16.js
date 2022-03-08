@@ -1,4 +1,4 @@
-// Magnitudes wave (2022.02.15)
+// Sin gradients / Magnitudes wave (2022.02.16)
 
 // Units
 let numMagnitudes = 10;
