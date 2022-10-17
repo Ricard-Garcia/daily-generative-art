@@ -4,9 +4,10 @@ let img;
 
 let x;
 let y;
-let nWalkers = 3;
+
+let nWalkers = 200;
 let walkers = [];
-let stepIncrement = 20;
+let stepIncrement = 2;
 
 let showImage = false;
 

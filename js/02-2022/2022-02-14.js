@@ -24,10 +24,11 @@ let rows;
 
 let stepSize = 1;
 
-margin = 150;
+margin = 100;
 
 // Features
 let isNegative;
+let sinWaves = 3;
 let alpha = 30;
 
 let foregroundColor;
@@ -36,7 +37,7 @@ function setup() {
   createCanvas(postW, postH);
 
   cosInc = 0.01;
-  sinInc = 0.01 * 4;
+  sinInc = 0.01 * sinWaves;
 
   isNegative = true;
 

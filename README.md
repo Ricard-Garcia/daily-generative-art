@@ -241,3 +241,11 @@ Practice done day by day to exercise p5.js, mathematical thinking and the possib
 > Sin gradients
 
 <img src="./img/2022-02/2022-02-16.1.png" width="200"/><img src="./img/2022-02/2022-02-16.2.png" width="200"/><img src="./img/2022-02/2022-02-16.3.png" width="200"/><img src="./img/2022-02/2022-02-16.4.png" width="200"/>
+
+## September
+
+### 18th
+
+> Crayons
+
+<img src="./img/2022-09/2022-09-20.1.png" width="200"/><img src="./img/2022-09/2022-09-20.2.png" width="200"/><img src="./img/2022-09/2022-09-20.3.png" width="200"/><img src="./img/2022-09/2022-09-20.4.png" width="200"/>

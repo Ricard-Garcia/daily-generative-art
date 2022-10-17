@@ -65,6 +65,9 @@ let yellows = [
 // 2022.02.02
 let channelColors = ["orangeRed", "blue", "white", "yellow", "LawnGreen"];
 
+// 2022.09.19
+let basicColors = ["#c50c1d", "#f8f5f4", "#0063db", "#e9b82c"];
+
 let greyColors = ["Black", "DarkGray", "LightGray", "Whitesmoke"];
 
 let backgroundColor = 246;
