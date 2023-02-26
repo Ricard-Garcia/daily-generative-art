@@ -18,7 +18,7 @@ let whitePixels = true;
 let monochrom = true;
 
 function preload() {
-  img = loadImage("../../assets/2022-01-30-asset-extra-2.jpg");
+  img = loadImage("../../../assets/2022/2022-01-30-asset-extra-2.jpg");
 }
 
 function setup() {

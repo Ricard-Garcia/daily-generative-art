@@ -12,7 +12,7 @@ let stepIncrement = 2;
 let showImage = false;
 
 function preload() {
-  img = loadImage("../../assets/2022-01-28-asset.jpeg");
+  img = loadImage("../../../assets/2022/2022-01-28-asset.jpeg");
 }
 
 function setup() {

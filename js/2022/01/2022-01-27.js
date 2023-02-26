@@ -7,7 +7,7 @@ let dFrame = 30;
 let showImage = false;
 
 function preload() {
-  img = loadImage("../../assets/2022-01-27-asset.jpg");
+  img = loadImage("../../../assets/2022/2022-01-27-asset.jpg");
 }
 
 function setup() {
